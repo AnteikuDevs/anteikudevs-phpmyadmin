@@ -1,0 +1,8 @@
+{
+    "name": "anteikudevs",
+    "version": "1.1.0",
+    "description": "AnteikuDevs phpMyAdmin",
+    "author": "AnteikuDevs",
+    "url": "https://www.anteikudevs.art/",
+    "supports": ["5.1", "5.2"]
+}
